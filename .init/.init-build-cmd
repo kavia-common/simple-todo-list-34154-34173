@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-todo-list-34154-34173/todo_sqlite_database"
+}
